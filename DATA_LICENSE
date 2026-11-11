@@ -1,0 +1,12 @@
+Data license for derived tables and the family report
+
+data/families.json, data/allbsd_head.txt, data/aplist_head.txt, data/count.txt,
+REPORT.md and tmp results are derived from John Cremona's ecdata tables
+(https://github.com/JohnCremona/ecdata), which are distributed under the
+Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA-4.0).
+
+The derived artifacts in this repository are therefore also CC-BY-SA-4.0:
+
+    https://creativecommons.org/licenses/by-sa/4.0/
+
+The Python source under src/, scripts/ and tests/ is MIT-licensed (LICENSE).
